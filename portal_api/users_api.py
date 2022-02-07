@@ -3,3 +3,6 @@ def add_user(name):
 
 def specific_stagin_delete_user(name):
     print("specific_stagin_delete_user:", name)
+
+def wild_change():
+    print("Wild change")
